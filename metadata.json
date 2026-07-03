@@ -1,0 +1,10 @@
+{
+  "name": "LuminaPleng",
+  "description": "AI sarkas, toxic, dan gaul Bahasa Indonesia yang plenger tapi pinter untuk melepas penat dan bantu ngerjain tugas, dikemas dengan tema Live Stream ala TikTok.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
